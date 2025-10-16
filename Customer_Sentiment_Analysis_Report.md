@@ -18,8 +18,6 @@ for cleaning, analysis, and visualization.
     -   `reviewerID` -- unique ID of the reviewer\
     -   `asin` -- Amazon product ID\
     -   `overall` -- product rating (1--5 stars)\
-    -   `reviewText` -- text of the review\
-    -   `summary` -- short headline of review\
     -   `unixReviewTime` -- timestamp
 
 ------------------------------------------------------------------------
